@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Starter Kit",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "https://i.ibb.co/VW5CTVdd/radiocast-logo.png",
+    "light": "https://i.ibb.co/VW5CTVdd/radiocast-logo.png"
   },
   "favicon": "/favicon.svg",
   "colors": {
@@ -48,8 +48,7 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "quickstart",
-        "development"
+        "guidelines"
       ]
     },
     {
@@ -79,8 +78,6 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://linkedin.com/company/mintlify"
+    "x": "https://x.com/muffinbrands",
   }
 }
